@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 ## OnCreate Executed:
-<img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b"  width="100" height="100">
+<img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b"  width="250" height="250">
 
 ## OnPause Executed:
 <img src="https://github.com/user-attachments/assets/148997cf-afb3-4480-9750-24e5717678b6" width="400">
